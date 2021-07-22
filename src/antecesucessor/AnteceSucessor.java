@@ -21,7 +21,7 @@ public class AnteceSucessor {
         numero.num = Integer.parseInt(JOptionPane.showInputDialog("Digite um numero"));
         JOptionPane.showMessageDialog(null, "Seu Antecessor é: " + numero.retornarAntecessor());
         JOptionPane.showMessageDialog(null, "Seu Sucessor é: " + numero.retornarSucessor());
-        ;
+       JOptionPane.showMessageDialog(null,"Apenas Teste Para Update");
     }
 
 }
