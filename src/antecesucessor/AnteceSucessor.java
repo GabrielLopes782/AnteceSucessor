@@ -22,6 +22,7 @@ public class AnteceSucessor {
         JOptionPane.showMessageDialog(null, "Seu Antecessor é: " + numero.retornarAntecessor());
         JOptionPane.showMessageDialog(null, "Seu Sucessor é: " + numero.retornarSucessor());
        JOptionPane.showMessageDialog(null,"Apenas Teste Para Update");
+        JOptionPane.showMessageDialog(null,"Teste de Sincronização");
     }
 
 }
